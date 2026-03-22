@@ -6,11 +6,6 @@ An interactive data visualization of internal migration flows across Kazakhstan'
 
 This project analyses origin-destination migration flow data from Kazakhstan's Bureau of National Statistics, covering 3,039 migration corridors across 20 regions over 8 years. The dashboard reveals the dominant urban pull of Astana, Almaty, and Shymkent — and the persistent population loss in northern and eastern oblasts.
 
-## Dashboard
-
-**[View live dashboard →](https://diar299.github.io/kz-migration/kazakhstan_migration_dashboard.html)**
-
-![Dashboard preview](assets/preview.png)
 
 ## Key findings
 
