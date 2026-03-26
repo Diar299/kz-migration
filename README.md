@@ -80,7 +80,7 @@ plotly>=5.15.0
 **Diar Islambekov** — Public policy researcher specialising in governance and Central Asia.
 
 - Portfolio: [diar-islambekov.github.io](https://diar-islambekov.github.io)
-- GitHub: [@diar-islambekov](https://github.com/diar299)
+- GitHub: [@diar-islambekov](https://github.com/diar-islambekov)
 - Email: diar.islambekov@gmail.com
 
 ## License
