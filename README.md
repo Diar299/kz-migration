@@ -4,7 +4,7 @@ Interactive analysis of internal migration flows across Kazakhstan's regions fro
 
 ## View the dashboard
 
-**[Open interactive notebook on nbviewer →](https://nbviewer.org/github/diar299/kz-migration/blob/main/migration_analysis.ipynb)**
+**[Open interactive notebook on nbviewer →](https://nbviewer.org/github/diar-islambekov/kz-migration/blob/main/migration_analysis.ipynb)**
 
 ## Overview
 
@@ -79,8 +79,8 @@ plotly>=5.15.0
 
 **Diar Islambekov** — Public policy researcher specialising in governance and Central Asia.
 
-- Portfolio: [diar299.github.io](https://diar299.github.io)
-- GitHub: [@diar299](https://github.com/diar299)
+- Portfolio: [diar-islambekov.github.io](https://diar-islambekov.github.io)
+- GitHub: [@diar-islambekov](https://github.com/diar299)
 - Email: diar.islambekov@gmail.com
 
 ## License
