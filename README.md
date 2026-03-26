@@ -47,7 +47,7 @@ kz-migration/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/diar299/kz-migration.git
+git clone https://github.com/diar-islambekov/kz-migration.git
 cd kz-migration
 ```
 
